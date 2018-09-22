@@ -29,7 +29,7 @@ public class Quiz{
             //Initializes the array of question numbers.
 
             boolean start=true;
-            int maxnum = 3;
+            int maxnum = 4; // Sets the number of questions
             ArrayList<Integer> asked = new ArrayList<Integer>();
 
 
