@@ -1,4 +1,4 @@
-# java space quiz
+# java quiz
 
 College project. 
 
